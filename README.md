@@ -1,90 +1,103 @@
-# 📊 CampaignPro: Unified Analytics & Investor Insights
+# 📊 CampaignPro: Unified Analytics & Investor Insights Dashboard
 
-A premium **crowdfunding analytics engine** built with **NestJS**, designed to process large-scale campaign data, investor transactions, and generate automated performance reports.
-
----
-
-## 🌟 Submission Highlights
-*   **Unified Dashboard**: A search-first, single-page analytics dashboard with real-time global filtering.
-*   **High Test Coverage**: **~72% code coverage** focused on complex business logic and formulas.
-*   **Clean Architecture**: Modular structure separating data access, core logic, and reporting.
-*   **Automated Seeding**: One-click data generation for 300+ records across all analytics categories.
+**A high-performance, mobile-responsive analytics engine built with NestJS and curated for the 2026 Backend Developer Assessment.**
 
 ---
 
-## 🛠 Tech Stack
--   **Backend**: NestJS (Node.js) + TypeScript
--   **Frontend**: Vanilla JavaScript + Glassmorphism CSS (No external frameworks for maximum performance)
--   **Storage**: JSON-based file storage (Domain-Driven Data Access)
--   **Testing**: Jest
--   **UI/UX**: Modern Dark Mode, Responsive Tables, Real-time Search Synchronization.
+## 🚀 Live Demo & Deployment
+- **Live Dashboard**: [https://campaignpro1.netlify.app/](https://campaignpro1.netlify.app/)
+- **GitHub Repository**: [https://github.com/Partha-2/CampaignPro](https://github.com/Partha-2/CampaignPro)
 
 ---
 
-## 🚀 Getting Started
+## 🌟 Executive Summary
+This project transforms raw crowdfunding data into actionable insights. It features a **"One ID" Search Engine** that allows users to instantly filter across three complex data domains (Campaigns, Investors, and Reports) on a single, premium responsive dashboard.
 
-### 1. Prerequisites
--   Node.js (v18+)
--   npm
-
-### 2. Installation
-```bash
-git clone <your-repo-url>
-cd campaign-analytics
-npm install
-```
-
-### 3. Initialize Data (Seeding)
-To generate the three core output files (`campaign-analytics.json`, `investor-insights.json`, `analytics-reports.json`) with 100 records each:
-```bash
-npm run dev
-# Then visit http://localhost:3000/seed-data in your browser
-```
-
-### 4. Running the App
-```bash
-# Development mode
-npm run dev
-
-# Production Build
-npm run build
-npm run start
-```
-The application will be live at `http://localhost:3000`.
+### Key Metrics:
+- **72% Total Code Coverage** (passing 100% of logic tests).
+- **300+ Pre-seeded Records** across all analytics categories.
+- **5 High-Precision Formulas** implemented for financial scoring and segmentation.
 
 ---
 
-## 📂 Project Architecture
+## 🛠 Tech Track & Stack
 
-The project follows a **Modular Architecture** for scalability and clarity:
+### Backend (The Brain)
+- **NestJS & TypeScript**: Core framework for modular architecture.
+- **Service-Oriented Design**: Decoupled modules for Analytics, Investors, and Reports.
+- **AWS Lambda Adatar**: Integrated `serverless-http` for Netlify Function compatibility.
 
-*   `/src/campaign-analytics`: Handles Performance Score calculation (Formula 1) and trend analysis.
-*   `/src/investor-insights`: Manages Investor Segmentation (Formula 3) and Sector Preferences (Formula 5).
-*   `/src/reports`: Orchestrates date-range based data aggregation and summary reporting.
-*   `/src/data`: Centralized data access layer with JSON parsing and seeding logic.
-*   `/public`: Premium frontend dashboard assets.
+### Frontend (The Interface)
+- **Vanilla JavaScript**: Zero-dependency, ultra-fast client-side filtering.
+- **Modular CSS**: Modern Glassmorphism design system.
+- **Responsive Web Design**: Mobile-first media queries for phone/tablet/desktop.
+
+### DevOps & Testing
+- **Jest**: Unit testing for all business logic.
+- **Netlify**: Serverless deployment with CI/CD integration.
+- **GitHub**: Source control and deployment automation.
 
 ---
 
-## 🔍 Search & Filtering (Try these examples!)
+## 🏗 Project Journey (Scratch to End)
 
-The **Unified Search Bar** at the top of the dashboard allows for instantaneous "One ID Search" across all three data categories simultaneously.
+### Phase 1: Core Backend & Data Logic
+- **Data Ingestion**: Created a robust `JsonDataService` to process raw startups, campaigns, and transactions.
+- **Formula Engineering**: Implemented complex business logic including:
+  - **Campaign Performance Score**: Multi-weighted formula for campaign success.
+  - **Investor Engagement Score**: Transaction count vs. investment volume weighting.
+  - **Segmentation Engine**: Logic-driven categorization (`whale`, `regular`, etc.).
+  - **Sector Preference Analysis**: Real-time cross-referencing between transactions, campaigns, and startups.
 
-| Category | Example Terms |
+### Phase 2: The Unified Dashboard
+- **UI Consolidation**: Refactored a multi-tab interface into a high-impact **Single Page Dashboard**.
+- **Search Engine**: Developed a global search bar that performs real-time, case-insensitive matching across `formatted_ids`, `sectors`, `segments`, and `dates`.
+
+### Phase 3: Deployment & Optimization
+- **Netlify Serverless Adaptation**: Refactored the NestJS app to run on AWS Lambda via Netlify Functions.
+- **Static Asset Strategy**: Moved analytics outputs to the `public/` directory to ensure data persistency in a stateless serverless environment.
+- **Mobile Mastery**: Implemented media queries to ensure a premium look on iPhones and Android devices.
+
+---
+
+## 🔍 Search Examples (Try the Search Bar!)
+
+| To Find... | Type This... |
 | :--- | :--- |
-| **Specific IDs** | `CAM-1`, `INV-12`, `#5` (Report ID) |
-| **Sectors** | `Fin-tech`, `Health-tech`, `Consumer` |
-| **Segments** | `Whale`, `Regular`, `Occasional`, `New` |
-| **Time Period** | `2026-02-14` (Today), `January`, `2025` |
+| **Campaign #1** | `CAM-1` |
+| **Investor #12** | `INV-12` |
+| **Sector Filter** | `Fin-tech` or `Health-tech` |
+| **Segments** | `Whale`, `Regular`, `New` |
+| **Report Date** | `2026-02-14` |
 
 ---
 
-## 🧪 Verification
-Run unit tests to verify formula accuracy and code integrity:
-```bash
-npm test          # Run all tests
-npm run test:cov  # Check coverage report
-```
+## 🧪 How to Run Locally
+
+1. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
+2. **Run in Development**:
+   ```bash
+   npm run dev
+   ```
+3. **Run Unit Tests**:
+   ```bash
+   npm run test:cov
+   ```
+4. **Seed Fresh Data**:
+   Navigate to `http://localhost:3000/seed-data` to regenerate the 300+ JSON records.
+
+---
+
+## 📦 Project Structure
+- `src/campaign-analytics`: Campaign scoring and analytics logic.
+- `src/investor-insights`: Investor behavior and segmentation logic.
+- `src/reports`: Automated summary report generation.
+- `src/data`: Data access layer and seeder.
+- `public/`: Frontend assets and static JSON data.
+- `netlify/functions`: Serverless entry point.
 
 ---
 
