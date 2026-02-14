@@ -1,0 +1,12 @@
+[
+  {"id": 1, "firstname": "Raj", "lastname": "Kumar", "email": "raj@example.com"},
+  {"id": 2, "firstname": "Priya", "lastname": "Sharma", "email": "priya@example.com"},
+  {"id": 3, "firstname": "Amit", "lastname": "Patel", "email": "amit@example.com"},
+  {"id": 4, "firstname": "Sneha", "lastname": "Singh", "email": "sneha@example.com"},
+  {"id": 5, "firstname": "Vikram", "lastname": "Mehta", "email": "vikram@example.com"},
+  {"id": 6, "firstname": "Anjali", "lastname": "Desai", "email": "anjali@example.com"},
+  {"id": 7, "firstname": "Rohit", "lastname": "Joshi", "email": "rohit@example.com"},
+  {"id": 8, "firstname": "Kavita", "lastname": "Reddy", "email": "kavita@example.com"},
+  {"id": 9, "firstname": "Suresh", "lastname": "Iyer", "email": "suresh@example.com"},
+  {"id": 10, "firstname": "Meera", "lastname": "Nair", "email": "meera@example.com"}
+]

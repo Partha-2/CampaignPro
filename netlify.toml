@@ -1,0 +1,22 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[functions]
+  directory = "dist"
+  node_bundler = "esbuild"
+
+[[redirects]]
+  from = "/data-api/*"
+  to = "/.netlify/functions/lambda/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/seed-data"
+  to = "/.netlify/functions/lambda/seed-data"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

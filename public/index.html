@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analytics Dashboard | Campaign Engine</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <main class="single-page">
+    <header>
+      <div class="logo">CampaignPro <span class="badge">Unified Analytics</span></div>
+      <div class="search-container">
+        <input type="text" id="global-search" placeholder="Search by ID, Sector, Segment, or Name..."
+          oninput="handleSearch()">
+      </div>
+      <div class="status-badge">System Live</div>
+    </header>
+
+    <div class="stats-overview">
+      <div class="mini-card">
+        <span class="label">Total Raised</span>
+        <span class="value" id="stat-total-money">$0.00</span>
+      </div>
+      <div class="mini-card">
+        <span class="label">Investors</span>
+        <span class="value" id="stat-investors">0</span>
+      </div>
+      <div class="mini-card">
+        <span class="label">Avg Score</span>
+        <span class="value" id="stat-score">0.0</span>
+      </div>
+    </div>
+
+    <div class="content-sections">
+      <!-- 1. CAMPAIGN ANALYTICS -->
+      <section class="glass-section">
+        <div class="section-title">
+          <h2>1. Campaign Analytics</h2>
+          <span class="count-tag" id="count-campaigns">0 Records</span>
+        </div>
+        <div class="scroll-table">
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Campaign ID</th>
+                <th>Analytics Date</th>
+                <th>Progress</th>
+                <th>Investors</th>
+                <th>Total Raised</th>
+                <th>Score</th>
+              </tr>
+            </thead>
+            <tbody id="campaigns-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 2. INVESTOR INSIGHTS -->
+      <section class="glass-section">
+        <div class="section-title">
+          <h2>2. Investor Insights</h2>
+          <span class="count-tag" id="count-investors">0 Records</span>
+        </div>
+        <div class="scroll-table">
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Investor ID</th>
+                <th>Insight Date</th>
+                <th>Segment</th>
+                <th>Preferred Sector</th>
+                <th>Investment Amount</th>
+              </tr>
+            </thead>
+            <tbody id="investors-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 3. ANALYTICS REPORTS -->
+      <section class="glass-section">
+        <div class="section-title">
+          <h2>3. Analytics Reports</h2>
+          <span class="count-tag" id="count-reports">0 Records</span>
+        </div>
+        <div class="scroll-table">
+          <table>
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Report Name</th>
+                <th>Type</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+                <th>Summary Total</th>
+              </tr>
+            </thead>
+            <tbody id="reports-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+
+</html>

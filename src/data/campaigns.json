@@ -1,0 +1,12 @@
+[
+  {"id": 1, "startup_id": 1, "minimum_amt_commitment": 5000000, "name": "Tech Startup Campaign 1"},
+  {"id": 2, "startup_id": 2, "minimum_amt_commitment": 5000000, "name": "FinTech Campaign 2"},
+  {"id": 3, "startup_id": 3, "minimum_amt_commitment": 5000000, "name": "HealthTech Campaign 3"},
+  {"id": 4, "startup_id": 4, "minimum_amt_commitment": 10000000, "name": "EdTech Campaign 4"},
+  {"id": 5, "startup_id": 5, "minimum_amt_commitment": 5000000, "name": "AgriTech Campaign 5"},
+  {"id": 6, "startup_id": 1, "minimum_amt_commitment": 8000000, "name": "Tech Startup Campaign 6"},
+  {"id": 7, "startup_id": 2, "minimum_amt_commitment": 6000000, "name": "FinTech Campaign 7"},
+  {"id": 8, "startup_id": 3, "minimum_amt_commitment": 7000000, "name": "HealthTech Campaign 8"},
+  {"id": 9, "startup_id": 4, "minimum_amt_commitment": 9000000, "name": "EdTech Campaign 9"},
+  {"id": 10, "startup_id": 5, "minimum_amt_commitment": 5500000, "name": "AgriTech Campaign 10"}
+]

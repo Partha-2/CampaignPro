@@ -1,0 +1,7 @@
+[
+  {"id": 1, "sector": "Fin-tech", "company_name": "Tech Startup 1"},
+  {"id": 2, "sector": "Fin-tech", "company_name": "FinTech Startup 2"},
+  {"id": 3, "sector": "Health-tech", "company_name": "HealthTech Startup 3"},
+  {"id": 4, "sector": "Ed-tech", "company_name": "EdTech Startup 4"},
+  {"id": 5, "sector": "Agri-tech", "company_name": "AgriTech Startup 5"}
+]
