@@ -14,10 +14,6 @@ import { DataSeedingService } from './data/data-seeding.service';
             rootPath: join(__dirname, '..', 'public'),
             serveRoot: '/',
         }),
-        ServeStaticModule.forRoot({
-            rootPath: join(__dirname, '..', 'output'),
-            serveRoot: '/data-api',
-        }),
     ],
     controllers: [AppController],
     providers: [

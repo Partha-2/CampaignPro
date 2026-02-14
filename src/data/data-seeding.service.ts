@@ -24,7 +24,7 @@ export class DataSeedingService {
 
     seedData() {
         console.log("Starting data seeding...");
-        const outputDir = path.join(process.cwd(), 'output');
+        const outputDir = path.join(process.cwd(), 'public', 'data-api');
         if (!fs.existsSync(outputDir)) {
             fs.mkdirSync(outputDir, { recursive: true });
         }

@@ -9,7 +9,7 @@ export class ReportGenerationService {
      * If seedData is true, it creates the output directory if missing.
      */
     generateReports(seedData: boolean = false) {
-        const outputDir = path.join(process.cwd(), 'output');
+        const outputDir = path.join(process.cwd(), 'public', 'data-api');
         this.ensureOutputDir(outputDir, seedData);
 
         const campaignAnalytics = this.loadJsonFile(path.join(outputDir, 'campaign-analytics.json'));

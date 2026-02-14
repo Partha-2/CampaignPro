@@ -62,7 +62,7 @@ export class AppController {
 
     @Get('/reports/:reportId')
     getReport(@Param('reportId') id: string) {
-        return { id: +id, status: 'available', url: `/output/analytics-reports.json` };
+        return { id: +id, status: 'available', url: `/data-api/analytics-reports.json` };
     }
 
     // === System & Charts ===

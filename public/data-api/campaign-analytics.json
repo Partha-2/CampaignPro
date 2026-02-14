@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "campaign_id": 1,
+    "analytics_date": "2026-02-14",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 2,
+    "campaign_id": 2,
+    "analytics_date": "2026-02-13",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 3,
+    "campaign_id": 3,
+    "analytics_date": "2026-02-12",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 4,
+    "campaign_id": 4,
+    "analytics_date": "2026-02-11",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 5,
+    "campaign_id": 5,
+    "analytics_date": "2026-02-10",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 6,
+    "campaign_id": 6,
+    "analytics_date": "2026-02-09",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 7,
+    "campaign_id": 7,
+    "analytics_date": "2026-02-08",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 8,
+    "campaign_id": 8,
+    "analytics_date": "2026-02-07",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 9,
+    "campaign_id": 9,
+    "analytics_date": "2026-02-06",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 10,
+    "campaign_id": 10,
+    "analytics_date": "2026-02-05",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 11,
+    "campaign_id": 1,
+    "analytics_date": "2026-02-04",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 12,
+    "campaign_id": 2,
+    "analytics_date": "2026-02-03",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 13,
+    "campaign_id": 3,
+    "analytics_date": "2026-02-02",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 14,
+    "campaign_id": 4,
+    "analytics_date": "2026-02-01",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 15,
+    "campaign_id": 5,
+    "analytics_date": "2026-01-31",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 16,
+    "campaign_id": 6,
+    "analytics_date": "2026-01-30",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 17,
+    "campaign_id": 7,
+    "analytics_date": "2026-01-29",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 18,
+    "campaign_id": 8,
+    "analytics_date": "2026-01-28",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 19,
+    "campaign_id": 9,
+    "analytics_date": "2026-01-27",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 20,
+    "campaign_id": 10,
+    "analytics_date": "2026-01-26",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 21,
+    "campaign_id": 1,
+    "analytics_date": "2026-01-25",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 22,
+    "campaign_id": 2,
+    "analytics_date": "2026-01-24",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 23,
+    "campaign_id": 3,
+    "analytics_date": "2026-01-23",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 24,
+    "campaign_id": 4,
+    "analytics_date": "2026-01-22",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 25,
+    "campaign_id": 5,
+    "analytics_date": "2026-01-21",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 26,
+    "campaign_id": 6,
+    "analytics_date": "2026-01-20",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 27,
+    "campaign_id": 7,
+    "analytics_date": "2026-01-19",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 28,
+    "campaign_id": 8,
+    "analytics_date": "2026-01-18",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 29,
+    "campaign_id": 9,
+    "analytics_date": "2026-01-17",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 30,
+    "campaign_id": 10,
+    "analytics_date": "2026-01-16",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 31,
+    "campaign_id": 1,
+    "analytics_date": "2026-01-15",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 32,
+    "campaign_id": 2,
+    "analytics_date": "2026-01-14",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 33,
+    "campaign_id": 3,
+    "analytics_date": "2026-01-13",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 34,
+    "campaign_id": 4,
+    "analytics_date": "2026-01-12",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 35,
+    "campaign_id": 5,
+    "analytics_date": "2026-01-11",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 36,
+    "campaign_id": 6,
+    "analytics_date": "2026-01-10",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 37,
+    "campaign_id": 7,
+    "analytics_date": "2026-01-09",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 38,
+    "campaign_id": 8,
+    "analytics_date": "2026-01-08",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 39,
+    "campaign_id": 9,
+    "analytics_date": "2026-01-07",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 40,
+    "campaign_id": 10,
+    "analytics_date": "2026-01-06",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 41,
+    "campaign_id": 1,
+    "analytics_date": "2026-01-05",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 42,
+    "campaign_id": 2,
+    "analytics_date": "2026-01-04",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 43,
+    "campaign_id": 3,
+    "analytics_date": "2026-01-03",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 44,
+    "campaign_id": 4,
+    "analytics_date": "2026-01-02",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 45,
+    "campaign_id": 5,
+    "analytics_date": "2026-01-01",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 46,
+    "campaign_id": 6,
+    "analytics_date": "2025-12-31",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 47,
+    "campaign_id": 7,
+    "analytics_date": "2025-12-30",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 48,
+    "campaign_id": 8,
+    "analytics_date": "2025-12-29",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 49,
+    "campaign_id": 9,
+    "analytics_date": "2025-12-28",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 50,
+    "campaign_id": 10,
+    "analytics_date": "2025-12-27",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 51,
+    "campaign_id": 1,
+    "analytics_date": "2025-12-26",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 52,
+    "campaign_id": 2,
+    "analytics_date": "2025-12-25",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 53,
+    "campaign_id": 3,
+    "analytics_date": "2025-12-24",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 54,
+    "campaign_id": 4,
+    "analytics_date": "2025-12-23",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 55,
+    "campaign_id": 5,
+    "analytics_date": "2025-12-22",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 56,
+    "campaign_id": 6,
+    "analytics_date": "2025-12-21",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 57,
+    "campaign_id": 7,
+    "analytics_date": "2025-12-20",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 58,
+    "campaign_id": 8,
+    "analytics_date": "2025-12-19",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 59,
+    "campaign_id": 9,
+    "analytics_date": "2025-12-18",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 60,
+    "campaign_id": 10,
+    "analytics_date": "2025-12-17",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 61,
+    "campaign_id": 1,
+    "analytics_date": "2025-12-16",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 62,
+    "campaign_id": 2,
+    "analytics_date": "2025-12-15",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 63,
+    "campaign_id": 3,
+    "analytics_date": "2025-12-14",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 64,
+    "campaign_id": 4,
+    "analytics_date": "2025-12-13",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 65,
+    "campaign_id": 5,
+    "analytics_date": "2025-12-12",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 66,
+    "campaign_id": 6,
+    "analytics_date": "2025-12-11",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 67,
+    "campaign_id": 7,
+    "analytics_date": "2025-12-10",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 68,
+    "campaign_id": 8,
+    "analytics_date": "2025-12-09",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 69,
+    "campaign_id": 9,
+    "analytics_date": "2025-12-08",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 70,
+    "campaign_id": 10,
+    "analytics_date": "2025-12-07",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 71,
+    "campaign_id": 1,
+    "analytics_date": "2025-12-06",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 72,
+    "campaign_id": 2,
+    "analytics_date": "2025-12-05",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 73,
+    "campaign_id": 3,
+    "analytics_date": "2025-12-04",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 74,
+    "campaign_id": 4,
+    "analytics_date": "2025-12-03",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 75,
+    "campaign_id": 5,
+    "analytics_date": "2025-12-02",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 76,
+    "campaign_id": 6,
+    "analytics_date": "2025-12-01",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 77,
+    "campaign_id": 7,
+    "analytics_date": "2025-11-30",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 78,
+    "campaign_id": 8,
+    "analytics_date": "2025-11-29",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 79,
+    "campaign_id": 9,
+    "analytics_date": "2025-11-28",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 80,
+    "campaign_id": 10,
+    "analytics_date": "2025-11-27",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 81,
+    "campaign_id": 1,
+    "analytics_date": "2025-11-26",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 82,
+    "campaign_id": 2,
+    "analytics_date": "2025-11-25",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 83,
+    "campaign_id": 3,
+    "analytics_date": "2025-11-24",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 84,
+    "campaign_id": 4,
+    "analytics_date": "2025-11-23",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 85,
+    "campaign_id": 5,
+    "analytics_date": "2025-11-22",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 86,
+    "campaign_id": 6,
+    "analytics_date": "2025-11-21",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 87,
+    "campaign_id": 7,
+    "analytics_date": "2025-11-20",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 88,
+    "campaign_id": 8,
+    "analytics_date": "2025-11-19",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 89,
+    "campaign_id": 9,
+    "analytics_date": "2025-11-18",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 90,
+    "campaign_id": 10,
+    "analytics_date": "2025-11-17",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  },
+  {
+    "id": 91,
+    "campaign_id": 1,
+    "analytics_date": "2026-02-14",
+    "total_investors": 7,
+    "total_amount_raised": 940000,
+    "average_investment_amount": 134285.71,
+    "funding_progress_percentage": 18.8,
+    "campaign_performance_score": 16.88
+  },
+  {
+    "id": 92,
+    "campaign_id": 2,
+    "analytics_date": "2026-02-13",
+    "total_investors": 6,
+    "total_amount_raised": 1080000,
+    "average_investment_amount": 180000,
+    "funding_progress_percentage": 21.6,
+    "campaign_performance_score": 17.76
+  },
+  {
+    "id": 93,
+    "campaign_id": 3,
+    "analytics_date": "2026-02-12",
+    "total_investors": 6,
+    "total_amount_raised": 840000,
+    "average_investment_amount": 140000,
+    "funding_progress_percentage": 16.8,
+    "campaign_performance_score": 14.88
+  },
+  {
+    "id": 94,
+    "campaign_id": 4,
+    "analytics_date": "2026-02-11",
+    "total_investors": 6,
+    "total_amount_raised": 3230000,
+    "average_investment_amount": 538333.33,
+    "funding_progress_percentage": 32.3,
+    "campaign_performance_score": 24.18
+  },
+  {
+    "id": 95,
+    "campaign_id": 5,
+    "analytics_date": "2026-02-10",
+    "total_investors": 5,
+    "total_amount_raised": 1220000,
+    "average_investment_amount": 244000,
+    "funding_progress_percentage": 24.4,
+    "campaign_performance_score": 18.64
+  },
+  {
+    "id": 96,
+    "campaign_id": 6,
+    "analytics_date": "2026-02-09",
+    "total_investors": 4,
+    "total_amount_raised": 1530000,
+    "average_investment_amount": 382500,
+    "funding_progress_percentage": 19.13,
+    "campaign_performance_score": 14.68
+  },
+  {
+    "id": 97,
+    "campaign_id": 7,
+    "analytics_date": "2026-02-08",
+    "total_investors": 4,
+    "total_amount_raised": 1030000,
+    "average_investment_amount": 257500,
+    "funding_progress_percentage": 17.17,
+    "campaign_performance_score": 13.5
+  },
+  {
+    "id": 98,
+    "campaign_id": 8,
+    "analytics_date": "2026-02-07",
+    "total_investors": 4,
+    "total_amount_raised": 1180000,
+    "average_investment_amount": 295000,
+    "funding_progress_percentage": 16.86,
+    "campaign_performance_score": 13.31
+  },
+  {
+    "id": 99,
+    "campaign_id": 9,
+    "analytics_date": "2026-02-06",
+    "total_investors": 4,
+    "total_amount_raised": 1680000,
+    "average_investment_amount": 420000,
+    "funding_progress_percentage": 18.67,
+    "campaign_performance_score": 14.4
+  },
+  {
+    "id": 100,
+    "campaign_id": 10,
+    "analytics_date": "2026-02-05",
+    "total_investors": 3,
+    "total_amount_raised": 575000,
+    "average_investment_amount": 191666.67,
+    "funding_progress_percentage": 10.45,
+    "campaign_performance_score": 8.67
+  }
+]
