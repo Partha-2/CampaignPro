@@ -3,17 +3,17 @@
   publish = "public"
 
 [functions]
-  directory = "dist"
+  directory = "netlify/functions"
   node_bundler = "esbuild"
 
 [[redirects]]
   from = "/data-api/*"
-  to = "/.netlify/functions/lambda/:splat"
+  to = "/.netlify/functions/api/:splat"
   status = 200
 
 [[redirects]]
   from = "/seed-data"
-  to = "/.netlify/functions/lambda/seed-data"
+  to = "/.netlify/functions/api/seed-data"
   status = 200
 
 [[redirects]]
